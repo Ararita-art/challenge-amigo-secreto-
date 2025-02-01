@@ -33,4 +33,23 @@ function actualizarNominaAmigo() {
             nominaAmigo.appendChild(li);
         });
     }
-    
+    //Sortear nombre de listaNombreAmigo
+function sortearlistaNombreAmigo() {
+    //Validar contenido listaNombreAmigo
+        if (listaNombreAmigo.length === 0) {
+            alert("La lista está vacía, para jugar ingrese nombres.");
+            return;
+        }
+    //Generar índice aleatorio
+        const indiceAleatorio = Math.floor(Math.random() * listaNombreAmigo.length);
+    //Obtener nombreAmigoSorteado
+        const nombreAmigoSorteado = listaNombreAmigo[indiceAleatorio];
+    //Mostrar nombreAmigoSorteado
+        const resultado = document.getElementById("resultado");
+        resultado.innerHTML = `<li>${nombreAmigoSorteado}</li>`;
+    }
+    //Asignar eventos a botones
+    document.addEventListener('DOMContentLoaded', () => {
+        document.getElementById("btnAdicionar").addEventListener("click", ingresarNombreAmigo);
+        document.getElementById("btnSortear").addEventListener("click", sortearlistaNombreAmigo);
+    })

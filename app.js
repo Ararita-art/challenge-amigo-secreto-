@@ -19,3 +19,18 @@ function ingresarNombreAmigo() {
     inputAmigo.value = "";
     inputAmigo.focus();
 }
+
+//Actualizar nominaAmigo
+function actualizarNominaAmigo() {
+    //Obtener elemento de nominaAmigo
+        const nominaAmigo = document.getElementById("listaAmigos");
+    //Limpiar nominaAmigo
+        nominaAmigo.innerHTML = "";
+    //Iterar listaNombreAmigo
+        listaNombreAmigo.forEach(amigo => {
+            const li = document.createElement("li");
+            li.textContent = amigo;
+            nominaAmigo.appendChild(li);
+        });
+    }
+    

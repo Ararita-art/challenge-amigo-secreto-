@@ -3,7 +3,7 @@
 ![interfaz Amigo Secreto](assets/logo-amigo-secreto.png)
 
 <h2>Descripción</h2>
-<p>Aplicación desarrollada como parte del programa <b>ONE Oracle Next Education</b>, iniciativa de <i>Oracle</i> y <i>Alura Latam</i> con el objetivo de poner en práctica los conceptos fundamentales de la lógica de programación, consiste en un juego interactivo en el que el usuario digita nombres de amigos y obtiene mediante un sorteo el nombre de un amigo.</p>
+<p>Aplicación desarrollada como parte del programa <b>ONE Oracle Next Education</b>, iniciativa de <i>Oracle</i> y <i>Alura Latam</i>, con el objetivo de poner en práctica los conceptos fundamentales de la lógica de programación, consiste en un juego interactivo en el que el usuario digita nombres de amigos y obtiene mediante un sorteo el nombre de un amigo.</p>
 
 ![logo one](assets/logo-one.png)
 
@@ -58,7 +58,7 @@
 - 5 En caso de que presiones el botón <i>"Añadir"</i> sin digitar el nombre de un amigo, el juego te enviará la alerta: <i>"Por favor, ingrese un nombre válido"</i>, para cerrarla presiona el botón <i>"Aceptar".</i>
 - 6 Digita tantos nombres de amigos como la longitud de la lista de amigos que decidas.
 - 7 Presiona el botón <i>"Sortear amigo"</i> para que la aplicación sortee y muestre el nombre del amigo elegido.
-- 8 En caso de que presiones el botón <i>"Sortear amigo"</i> sin haber digitado nombres de amigos, el juego te enviará la alerta: <i>"La lista está vacía, para jugar ingrese nombres".</i>, para cerrarla presiona el botón <i>"Aceptar".</i>
+- 8 En caso de que presiones el botón <i>"Sortear amigo"</i> sin haber digitado nombres de amigos, el juego te enviará la alerta: <i>"La lista está vacía, para jugar ingrese nombres"</i>, para cerrarla presiona el botón <i>"Aceptar".</i>
 - 9 Observa como el nombre del amigo sorteado aparece destacado en la pantalla.
 - 10 Actualiza la página para reiniciar el juego.
 
@@ -69,7 +69,7 @@
 <p>Araceli Gámez</p>
 
 <h3>Contacto</h3>
-<p>Si como yo eres un entusiasta aprendiz de programación, contáctate conmigo a través de:</p>
+<p>Si como yo, eres un entusiasta aprendiz de programación, contáctate conmigo a través de:</p>
 
 <b>`GITHUB`</b>: https://github.com/Ararita-art
 

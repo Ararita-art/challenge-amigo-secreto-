@@ -46,21 +46,25 @@
 <h2>Acceso a la aplicación</h2>
 
 <p><strong>Usuarios</strong></p>
-<p>Si eres usuario y quieres pasar un momento divertido, da click en el siguiente enlace y... ¡¡¡Empieza a jugar!!! :game_die: </p>
+<p>Si eres usuario y quieres pasar un momento divertido, da click en el siguiente enlace https://github.com/Ararita-art/challenge-amigo-secreto-, sigue las instrucciones y... ¡¡¡Empieza a jugar!!! :game_die: </p>
 
 <h3>Instrucciones de uso</h3>
 <p>Para disfrutar al máximo este juego, sigue estas instrucciones:</p>
 
 - 1 Da <i>click</i> en el enlace del juego.
-- 2 Digita el nombre de un amigo en la casilla <i>"Escribe un nombre".</i>
-- 3 Presiona el botón <i>"Añadir".</i>
-- 4 Observa como el nombre que digitas se enlista en la pantalla.
-- 5 En caso de que presiones el botón <i>"Añadir"</i> sin digitar el nombre de un amigo, el juego te enviará la alerta: <i>"Por favor, ingrese un nombre válido"</i>, para cerrarla presiona el botón <i>"Aceptar".</i>
-- 6 Digita tantos nombres de amigos como la longitud de la lista de amigos que decidas.
-- 7 Presiona el botón <i>"Sortear amigo"</i> para que la aplicación sortee y muestre el nombre del amigo elegido.
-- 8 En caso de que presiones el botón <i>"Sortear amigo"</i> sin haber digitado nombres de amigos, el juego te enviará la alerta: <i>"La lista está vacía, para jugar ingrese nombres"</i>, para cerrarla presiona el botón <i>"Aceptar".</i>
-- 9 Observa como el nombre del amigo sorteado aparece destacado en la pantalla.
-- 10 Actualiza la página para reiniciar el juego.
+- 2 Descarga la carpeta <i>"challenge-amigo-secreto-"</i> en tu repositorio local, para ello utiliza un sistema VCS como Git. 
+- 3 Abre la carpeta <i>"challenge-amigo-secreto-"</i> y da doble <i>click</i> en el archivo <i>"index.html"</i>, se abrirá la pantalla del juego en tu navegador.
+- 4 Digita el nombre de un amigo en la casilla <i>"Escribe un nombre"</i>.
+- 5 Presiona el botón <i>"Añadir"</i>.
+- 6 Observa como el nombre que digitas se enlista en la pantalla.
+- 7 En caso de que presiones el botón <i>"Añadir"</i> sin digitar el nombre de un amigo, el juego te enviará la alerta: <i>"Por favor, ingrese un nombre válido"</i>, para cerrarla presiona el botón <i>"Aceptar"</i>.
+- 8 Digita tantos nombres de amigos como extensa sea la lista de amigos que decidas.
+- 9 Presiona el botón <i>"Sortear amigo"</i> para que la aplicación sortee y muestre el nombre del amigo elegido.
+- 10 En caso de que presiones el botón <i>"Sortear amigo"</i> sin haber digitado nombres de amigos, el juego te enviará la alerta: <i>"La lista está vacía, para jugar ingrese nombres"</i>, para cerrarla presiona el botón <i>"Aceptar"</i>.
+- 11 Observa como el nombre del amigo sorteado aparece destacado en la pantalla.
+- 12 Actualiza la página para reiniciar el juego.
+
+![icono amigo secreto](assets/amigo-secreto.png)
 
 <p><strong>Desarrolladores</strong></p>
 <p>Si eres desarrollador y quieres revisar el proyecto da click en el siguiente enlace https://github.com/Ararita-art/challenge-amigo-secreto- y... ¡¡¡Envía retro del proyecto!!! :calling: </p>
